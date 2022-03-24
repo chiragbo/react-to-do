@@ -1,0 +1,22 @@
+.single-todo {
+  border: solid black 1px;
+  padding: 10px;
+  width: 25%;
+  height: 25px;
+  margin: auto;
+  margin: 10px auto;
+  background-color: lightgray;
+}
+
+.task {
+  width: 70%;
+  display: inline-block;
+}
+.chk-box {
+  width: 10%;
+  display: inline-block;
+}
+.btn-delete {
+  width: 20%;
+  display: inline-block;
+}

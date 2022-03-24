@@ -1,0 +1,10 @@
+.todo-from input[type="text"] {
+  height: 30px;
+  width: 200px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+.todo-from button[type="submit"] {
+  height: 30px;
+  width: 60px;
+}
